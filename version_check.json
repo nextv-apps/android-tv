@@ -1,5 +1,6 @@
 {
-  "latest_version": 20020200,
-  "latest_version_date": 1659211219573,
-  "checksum": "123"
+  "version_code": 20020200,
+  "date": 1659211219573,
+  "checksum": "123",
+  "download_link: "https://github.com/nextv-apps/android-tv/releases/download/v1.9.0-test/app-NON_PLAY_STORE-release.apk"
 }
